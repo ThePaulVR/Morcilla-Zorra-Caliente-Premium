@@ -4,4 +4,4 @@ AVISO !!! ⚠
 
 A lo largo del tiempo esta va a ser la version official de Morcilla Zorra Caliente, puedes seguir usando la vieja version, solo que no se la va a seguir dando soporte de actualizaciones o dejara de existir. 
 
-All Copyrights To Zetasoft y Finli™.
+All Copyrights To Zetasoft, Finli™.
